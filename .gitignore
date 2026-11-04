@@ -1,0 +1,7 @@
+# Bỏ qua các file chứa biến môi trường thực tế
+.env
+.env.local
+.env.production
+
+# Bắt buộc theo dõi file template
+!.env.example
